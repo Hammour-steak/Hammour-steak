@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on AI
+🌱 I’m currently learning generative models.
 
-🌱 I’m currently learning
 <!--
 **Hammour-steak/Hammour-steak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
